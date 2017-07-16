@@ -1,0 +1,9 @@
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.deps.json
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.runtimeconfig.json
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.runtimeconfig.dev.json
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.dll
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\bin\Debug\netcoreapp1.0\SportsStore.pdb
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.csprojResolveAssemblyReference.cache
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.AssemblyInfo.cs
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.dll
+D:\Projects\ASP Net Core MVC\Pro ASPNet-Core\Chapter 8\SportsStore\src\SportsStore\obj\Debug\netcoreapp1.0\SportsStore.pdb

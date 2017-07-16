@@ -1,0 +1,71 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/media/erdem/Rage/Projects/ASP Net Core MVC/Pro ASPNet-Core/Chapter 8/SportsStore/test/SportsStore.Tests/SportsStore.Tests.csproj",
+    "projectName": "SportsStore.Tests",
+    "projectPath": "/media/erdem/Rage/Projects/ASP Net Core MVC/Pro ASPNet-Core/Chapter 8/SportsStore/test/SportsStore.Tests/SportsStore.Tests.csproj",
+    "outputPath": "/media/erdem/Rage/Projects/ASP Net Core MVC/Pro ASPNet-Core/Chapter 8/SportsStore/test/SportsStore.Tests/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp1.0"
+    ],
+    "frameworks": {
+      "netcoreapp1.0": {
+        "projectReferences": {
+          "/media/erdem/Rage/Projects/ASP Net Core MVC/Pro ASPNet-Core/Chapter 8/SportsStore/src/SportsStore/SportsStore.csproj": {
+            "projectPath": "/media/erdem/Rage/Projects/ASP Net Core MVC/Pro ASPNet-Core/Chapter 8/SportsStore/src/SportsStore/SportsStore.csproj"
+          }
+        }
+      }
+    }
+  },
+  "frameworks": {
+    "netcoreapp1.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "target": "Package",
+          "version": "1.1.2"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "15.0.0-preview-20170106-08"
+        },
+        "xunit": {
+          "target": "Package",
+          "version": "2.2.0-beta5-build3474"
+        },
+        "xunit.runner.visualstudio": {
+          "target": "Package",
+          "version": "2.2.0-beta5-build1225"
+        },
+        "System.Diagnostics.TraceSource": {
+          "target": "Package",
+          "version": "4.3.0"
+        },
+        "Moq": {
+          "target": "Package",
+          "version": "4.7.63"
+        },
+        "Microsoft.DotNet.InternalAbstractions": {
+          "target": "Package",
+          "version": "1.0.0"
+        }
+      },
+      "imports": [
+        "dotnet5.6",
+        "portable-net45+win8"
+      ]
+    }
+  },
+  "runtimes": {
+    "win": {
+      "#import": []
+    },
+    "win-x64": {
+      "#import": []
+    },
+    "win-x86": {
+      "#import": []
+    }
+  }
+}
