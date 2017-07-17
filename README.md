@@ -11,3 +11,4 @@ Complete web application with front and backend development including custom rou
 ## How To Run
 
 * Change connection strings in "appsettings.json" to a local sql server
+* Updata local database with ```dotnet ef database update``` command
